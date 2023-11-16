@@ -4731,6 +4731,13 @@
   dependencies:
     "@stencil/core" "^2.17.1"
 
+"@stacks/connect-ui@6.1.2":
+  version "6.1.2"
+  resolved "https://registry.yarnpkg.com/@stacks/connect-ui/-/connect-ui-6.1.2.tgz#a762d25ab9db6d6ce0f1fff0fcca1363345be218"
+  integrity sha512-V4gUINXRDB2MO6YHk/JZZeApSnANrMFvIRv9qLBaJPamKsgeiCOBkiC88T7ucLVCz+NvCmS93Ntg4wytDIqdOg==
+  dependencies:
+    "@stencil/core" "^2.17.1"
+
 "@stacks/connect@7.4.0":
   version "7.4.0"
   resolved "https://registry.yarnpkg.com/@stacks/connect/-/connect-7.4.0.tgz#fb59956bc38e4433f92765a80c86d52e211f7467"
@@ -4738,6 +4745,18 @@
   dependencies:
     "@stacks/auth" "^6.1.1"
     "@stacks/connect-ui" "6.1.1"
+    "@stacks/network" "^6.1.1"
+    "@stacks/profile" "^6.1.1"
+    "@stacks/transactions" "^6.1.1"
+    jsontokens "^4.0.1"
+
+"@stacks/connect@7.4.1":
+  version "7.4.1"
+  resolved "https://registry.yarnpkg.com/@stacks/connect/-/connect-7.4.1.tgz#c34a6180f9c9dfa3e5c90a919e0ef34ed5606d6e"
+  integrity sha512-kvF7Fnx8oMHNi/9At6UI6kThey+gYlYlbtsxhNL2VqflReXI8z3EndaMJ1WrD55ePIOoydAzV/Fx0rdNFjd4rQ==
+  dependencies:
+    "@stacks/auth" "^6.1.1"
+    "@stacks/connect-ui" "6.1.2"
     "@stacks/network" "^6.1.1"
     "@stacks/profile" "^6.1.1"
     "@stacks/transactions" "^6.1.1"
