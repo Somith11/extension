@@ -166,7 +166,7 @@
     "@tanstack/react-query-persist-client": "4.35.7",
     "@tippyjs/react": "4.2.6",
     "@types/lodash.uniqby": "4.7.7",
-    "@typescript-eslint/eslint-plugin": "6.7.4",
+    "@typescript-eslint/eslint-plugin": "6.9.0",
     "@vkontakte/vk-qr": "2.0.13",
     "@zondax/ledger-stacks": "1.0.4",
     "alex-sdk": "0.1.22",
