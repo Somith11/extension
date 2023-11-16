@@ -190,7 +190,7 @@
     "ecdsa-sig-formatter": "1.0.11",
     "ecpair": "2.1.0",
     "formik": "2.4.5",
-    "jotai": "2.2.1",
+    "jotai": "2.5.0",
     "jotai-redux": "0.2.1",
     "jsontokens": "4.0.1",
     "ledger-bitcoin": "0.2.3",
