@@ -143,7 +143,7 @@
     "@sentry/react": "7.72.0",
     "@sentry/tracing": "7.72.0",
     "@stacks/auth": "6.9.0",
-    "@stacks/blockchain-api-client": "6.3.4",
+    "@stacks/blockchain-api-client": "8.0.0",
     "@stacks/common": "6.8.1",
     "@stacks/connect": "7.4.0",
     "@stacks/connect-ui": "6.1.1",
