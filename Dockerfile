@@ -21,7 +21,7 @@ RUN apt-get update -y \
     && ./build-ext.sh /leather-chromium.zip
 
 
-FROM alpine:3.16
+FROM alpine:3.21.2
 COPY --from=builder /leather-chromium.zip .
 
 # Wait for extension.zip to be copied into local
